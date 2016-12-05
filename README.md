@@ -1,4 +1,4 @@
-# vue-router [![Build Status](https://img.shields.io/circleci/project/vuejs/vue-router/master.svg)](https://circleci.com/gh/vuejs/vue-router) [![npm package](https://img.shields.io/npm/v/vue-router.svg)](https://www.npmjs.com/package/vue-router) [![bitHound Overall Score](https://www.bithound.io/github/vuejs/vue-router/badges/score.svg)](https://www.bithound.io/github/vuejs/vue-router) [![Issue Stats](http://issuestats.com/github/vuejs/vue-router/badge/issue?style=flat)](http://issuestats.com/github/vuejs/vue-router)
+# vue-router-fixed [![Build Status](https://img.shields.io/circleci/project/vuejs/vue-router/master.svg)](https://circleci.com/gh/vuejs/vue-router) [![npm package](https://img.shields.io/npm/v/vue-router.svg)](https://www.npmjs.com/package/vue-router) [![bitHound Overall Score](https://www.bithound.io/github/vuejs/vue-router/badges/score.svg)](https://www.bithound.io/github/vuejs/vue-router) [![Issue Stats](http://issuestats.com/github/vuejs/vue-router/badge/issue?style=flat)](http://issuestats.com/github/vuejs/vue-router)
 
 **Compatibility Note:** `vue-router` requires Vue.js 0.12.10+
 
@@ -67,5 +67,3 @@ Details changes for each release are documented in the [release notes](https://g
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-2016 Evan You
-
-
