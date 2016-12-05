@@ -1,5 +1,5 @@
 {
-  "name": "vue-router",
+  "name": "vue-router-fixed",
   "version": "0.7.13-1",
   "description": "A router for Vue.js",
   "main": "dist/vue-router.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue-router.git"
+    "url": "git+https://github.com/shupan123/vue-router-fixed.git"
   },
   "keywords": [
     "vue",
@@ -33,12 +33,12 @@
     "router",
     "mvvm"
   ],
-  "author": "Evan You",
+  "author": "Shu Pan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vuejs/vue-router/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-router#readme",
+  "homepage": "https://github.com/shupan123/vue-router-fixed.git#readme",
   "devDependencies": {
     "babel-core": "^5.8.33",
     "babel-loader": "^5.3.3",
