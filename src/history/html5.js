@@ -14,6 +14,7 @@ export default class HTML5History {
       this.rootRE = new RegExp('^\\' + this.root)
     } else {
       this.root = null
+      this.rootRE = new RegExp('')
     }
     this.onChange = onChange
     // check base tag

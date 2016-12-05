@@ -1,5 +1,5 @@
 /*!
- * vue-router v0.7.13
+ * vue-router v0.7.13-1
  * (c) 2016 Evan You
  * Released under the MIT License.
  */
@@ -889,6 +889,7 @@
         this.rootRE = new RegExp('^\\' + this.root);
       } else {
         this.root = null;
+        this.rootRE = new RegExp('');
       }
       this.onChange = onChange;
       // check base tag
